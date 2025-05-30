@@ -36,7 +36,7 @@
 	},
 	"dependencies": {
 		"openai": "^4.63.0",
-		"zod": "^3.23.8"
+		"zod": "^3.25.39"
 	},
 	"devDependencies": {
 		"@baseai/eslint-config": "workspace:*",
